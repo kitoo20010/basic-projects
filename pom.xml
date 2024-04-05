@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.app</groupId>
-  <artifactId>basic-projects</artifactId>
+  <artifactId>f1-basic-projects</artifactId>
   <version>0.1-SNAPSHOT</version>
 
-  <name>basic-projects</name>
+  <name>F1_basic-projects</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
